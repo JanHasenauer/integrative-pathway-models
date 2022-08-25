@@ -8,11 +8,11 @@ The aim of INCOME is to promote collaboration and exchange between research grou
 * Workshop on Statistical Inference for Dynamical Systems (at the [International Conference on Systems Biology](https://www.icsb2022.berlin/)), October, 8, Berlin, Germany.
 
 ## Previous events
-* [Conference on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/income2021-conference-and-hackathon/index.html), March 1-4, 2021, Bonn, Germany.
+* [Conference and Hackathon on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/income2021-conference-and-hackathon/index.html), March 1-4, 2021, Bonn, Germany.
 * [Hackathon on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/former-meetings/income-hackathon-2020/index.html), February 5-7, 2020, Bonn, Germany.
-* [Conference on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/former-meetings/income2019-conference-and-hackathon/index.html), November 25-29, 2019, Berlin, Germany.
+* [Conference and Hackathon on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/former-meetings/income2019-conference-and-hackathon/index.html), November 25-29, 2019, Berlin, Germany.
 * [Hackathon on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/former-meetings/income-hackathon-2019/index.html), March 18 - 20, 2019, Frankfurt, Germany.
-* [Conference on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/former-meetings/income2018-conference-and-hackathon/index.html), October 15-19, 2018, Bernried, Lake Starnberg, Germany.
+* [Conference and Hackathon on Integrative Pathway Modeling in Systems Biology and Systems Medicine](https://www.integrative-pathway-models.de/meetings/former-meetings/income2018-conference-and-hackathon/index.html), October 15-19, 2018, Bernried, Lake Starnberg, Germany.
 
 ## Funding
 INCOME acknowledges funding by the erman Federal Ministry of Education and Research (BMBF) withing the e:Med program.
