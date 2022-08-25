@@ -1,4 +1,4 @@
-![This is an image](https://github.com/JanHasenauer/integrative-pathway-models/blob/main/misc/INCOME_logo.jpg)
+![This is an image](https://github.com/JanHasenauer/integrative-pathway-models/blob/main/misc/INCOME_logo.jpg | width=100)
 
 # INtegrative COllaborative modelling in systems MEdicine (INCOME)
 
