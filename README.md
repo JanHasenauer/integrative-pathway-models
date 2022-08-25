@@ -1,4 +1,4 @@
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://your-image-url.type](https://github.com/JanHasenauer/integrative-pathway-models/blob/main/misc/INCOME_logo.jpg)
+![This is an image](https://github.com/JanHasenauer/integrative-pathway-models/blob/main/misc/INCOME_logo.jpg)
 
 # INtegrative COllaborative modelling in systems MEdicine (INCOME)
 
