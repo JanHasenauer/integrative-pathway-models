@@ -1,4 +1,4 @@
-<img src="[https://your-image-url.type](https://github.com/JanHasenauer/integrative-pathway-models/blob/main/misc/INCOME_logo.jpg)" width="100">
+![This is an image](https://github.com/JanHasenauer/integrative-pathway-models/blob/main/misc/INCOME_logo.jpg)
 
 # INtegrative COllaborative modelling in systems MEdicine (INCOME)
 
