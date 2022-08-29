@@ -4,10 +4,12 @@
 
 Systems medicine is an interdisciplinary approach in which physicians and clinical researchers collaborate with experts from the fields of biology, biostatistics, informatics and mathematics to improve the diagnosis, prevention and treatment of diseases. For this, large-scale, heterogeneous data sets must be collected experimentally and merged using holistic models. In reality, however, most projects are still limited to individual cellular processes and develop customized models for these.
 
-The aim of INCOME is to promote collaboration and exchange between research groups through targeted networking and training activities. Over the last years, INCOME organised various conferences and hackathons. This allowed researchers and software developers have jointly create a culture of data and model sharing, developing methods to improve the technical links and reusability of existing simulation models. In this way, the meetings provided a platform for strengthening the community.
+The aim of INCOME is to promote collaboration and exchange between research groups through targeted networking and training activities. Over the last years, INCOME organised various conferences and hackathons. This allowed researchers and software developers to jointly create a culture of data and model sharing, developing methods to improve the technical links and reusability of existing simulation models. In this way, the meetings provided a platform for strengthening the community.
+
+This GitHup page summarizies the activities, including upcoming and previous events. The details are available on the [wiki page](https://github.com/JanHasenauer/integrative-pathway-models/wiki) of the project.
  
 ## Upcomming events
-* Workshop on Statistical Inference for Dynamical Systems (at the [International Conference on Systems Biology](https://www.icsb2022.berlin/)), October, 8, Berlin, Germany.
+* [Workshop on Statistical Inference for Dynamical Systems](https://github.com/JanHasenauer/integrative-pathway-models/wiki/Workshop-on-Statistical-Inference-for-Dynamical-Systems) (at the [International Conference on Systems Biology](https://www.icsb2022.berlin/)), October, 8, Berlin, Germany.
 
 ## Previous events
 * [5th INCOME Hackathon (virtual)](https://www.integrative-pathway-models.de/meetings/income2021-conference-and-hackathon/index.html), March 2-4, 2021, Bonn, Germany.
@@ -20,4 +22,4 @@ The aim of INCOME is to promote collaboration and exchange between research grou
 * [1st INCOME Conference](https://www.integrative-pathway-models.de/meetings/former-meetings/income2018-conference-and-hackathon/index.html), October 15-17, 2018, Bernried, Lake Starnberg, Germany.
 
 ## Funding
-INCOME acknowledges funding by the erman Federal Ministry of Education and Research (BMBF) withing the e:Med program.
+INCOME acknowledges funding by the German Federal Ministry of Education and Research (BMBF) withing the e:Med program.
