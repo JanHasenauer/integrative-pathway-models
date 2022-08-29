@@ -6,7 +6,7 @@ Systems medicine is an interdisciplinary approach in which physicians and clinic
 
 The aim of INCOME is to promote collaboration and exchange between research groups through targeted networking and training activities. Over the last years, INCOME organised various conferences and hackathons. This allowed researchers and software developers to jointly create a culture of data and model sharing, developing methods to improve the technical links and reusability of existing simulation models. In this way, the meetings provided a platform for strengthening the community.
 
-This GitHup page summarizies the activities, including upcoming and previous events. The details are available on the [wiki page](https://github.com/JanHasenauer/integrative-pathway-models/wiki) of the project.
+This GitHup page summarises the activities, including upcoming and previous events. The details are available on the [wiki page](https://github.com/JanHasenauer/integrative-pathway-models/wiki) of the project.
  
 ## Upcomming events
 * [Workshop on Statistical Inference for Dynamical Systems](https://github.com/JanHasenauer/integrative-pathway-models/wiki/Workshop-on-Statistical-Inference-for-Dynamical-Systems) (at the [International Conference on Systems Biology](https://www.icsb2022.berlin/)), October, 8, Berlin, Germany.
