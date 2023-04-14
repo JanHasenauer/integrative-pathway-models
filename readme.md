@@ -8,10 +8,11 @@ The aim of INCOME is to promote collaboration and exchange between research grou
 
 This GitHup page summarises the activities, including upcoming and previous events. The details are available on the [wiki page](https://github.com/JanHasenauer/integrative-pathway-models/wiki) of the project.
  
-## Upcomming events
-* [Workshop on Statistical Inference for Dynamical Systems](https://github.com/JanHasenauer/integrative-pathway-models/wiki/Workshop-on-Statistical-Inference-for-Dynamical-Systems) (at the [International Conference on Systems Biology](https://www.icsb2022.berlin/)), October, 8, Berlin, Germany.
+## Upcoming events
+* [6th INCOME Hackathon](https://github.com/JanHasenauer/integrative-pathway-models/wiki/income-hackathon-2023), April 20-21, 2023, Bonn, Germany.
 
 ## Previous events
+* [Workshop on Statistical Inference for Dynamical Systems](https://github.com/JanHasenauer/integrative-pathway-models/wiki/Workshop-on-Statistical-Inference-for-Dynamical-Systems) (at the [International Conference on Systems Biology](https://www.icsb2022.berlin/)), October, 8, Berlin, Germany.
 * [5th INCOME Hackathon (virtual)](https://www.integrative-pathway-models.de/meetings/income2021-conference-and-hackathon/index.html), March 2-4, 2021, Bonn, Germany.
 * [3rd INCOME Conference (virtual)](https://www.integrative-pathway-models.de/meetings/income2021-conference-and-hackathon/index.html), March 1-3, 2021, Bonn, Germany.
 * [4th INCOME Hackathon](https://www.integrative-pathway-models.de/meetings/former-meetings/income-hackathon-2020/index.html), February 5-7, 2020, Bonn, Germany.
